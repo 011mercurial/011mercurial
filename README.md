@@ -10,7 +10,7 @@ I am a Field Service Technician and Project Manager, for about a year I have bee
 * ✉️  You can contact me at [ribeirojaus@gmail.com](mailto:ribeirojaus@gmail.com)
 * 🧠  I'm learning more about cybersecurity
 * 🤝  I'm open to collaborating on Tech projects such as apps or any security related projects
-* ⚡  I am not saying I am batman, however have you ever seen him and me in the same place?
+* ⚡  I am not saying I am batman, however have you ever seen him and me at the same place?
 
 ### Skills
 
