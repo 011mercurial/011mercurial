@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 It's really nice to have you here
 ---------------------------------
 
-I am a Field Service Technician and Project Manager, for about a year I have been committed to join the Cybersecurity. The idea of becoming part of a team responsible for helping teams and business implementing and aligning the most viable cybersecurity practices. really excites me. I been focusing my learning on network, penetration testing, cloud, Kali Linux and PowerShell, I JavaScript and python My greatest strength is my desire to solve problems and linked to my passion for learning and curiosity that drives me to try discovering the why of things. I highly value integrity and responsibility in all my endeavors. Moreover, I believe communication is key to achieve greatness
+I am a Field Service Technician and Project Manager, for about a year I have been committed to join the Cybersecurity. The idea of becoming part of a team responsible for helping teams and business implementing and aligning the most viable cybersecurity practices. really excites me. I been focusing my learning on network, penetration testing, cloud, Kali Linux and PowerShell, as well as JavaScript and python My greatest strength is my desire to solve problems and linked to my passion for learning and curiosity that drives me to try discovering the why of things. I highly value integrity and responsibility in all my endeavors. Moreover, I believe communication is key to achieve greatness
 
 * 🌍  I'm based in Melbourne, VIC
 * ✉️  You can contact me at [ribeirojaus@gmail.com](mailto:ribeirojaus@gmail.com)
